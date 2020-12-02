@@ -1,6 +1,6 @@
 # FullCycle - Docker
 
-Desafios propostos pelo curso FullCycle da CodeEducation
+Desafios propostos pelo curso Full Cycle da CodeEducation
 
 ## Desafio 1
 
