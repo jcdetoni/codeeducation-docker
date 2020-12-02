@@ -1,4 +1,4 @@
-# FullCycle - Docker
+# Full Cycle - Docker
 
 Desafios propostos pelo curso Full Cycle da CodeEducation
 
